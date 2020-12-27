@@ -11,7 +11,7 @@ import retrofit2.http.Query
  * @Query = Latitude (Pega essa informação do GPS do aparelho)
  * @Query = Longitude (Pega essa informação do GPS do aparelho)
  * @Query = units (Unidade métrica nesse caso irá retornar em graus celsius)
- * @Query = appid (Key unica de uso exclussivo da API)
+ * @Query = appid (Key unica de uso exclusivo da API)
  * @Query = lang (linguagem de retorno por exemplo portguês do Brasil pt_br)
  * */
 
