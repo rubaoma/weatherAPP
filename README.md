@@ -14,3 +14,4 @@ h1. weather APP
  Dexter
 
 ![app image 1](weatherAppImage.png)
+![app image 2](weatherAppImage2.png)
