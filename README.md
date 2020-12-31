@@ -13,5 +13,5 @@ h1. weather APP
  Gson
  Dexter
 
-! [app image 1] (weatherAppImage.png)! 
+! [app image 1] (weatherAppImage.png)! [ app image 1 ] ( weatherAppImage . Png ) 
 
