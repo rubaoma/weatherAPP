@@ -13,5 +13,5 @@ h1. weather APP
  Gson
  Dexter
 
- ! [app image 1] (/app/src/main/res/images/weatherAppImage.png)! 
+ ! [app image 1] (/ app / src / main / res / images / weatherAppImage.png)! 
 
