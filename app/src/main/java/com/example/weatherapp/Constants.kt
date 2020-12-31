@@ -8,10 +8,12 @@ import android.os.Build
 
 object Constants {
 
-    const val APP_ID: String = "apikey"
+    const val APP_ID: String = "5c683cf95752df8bd03132c7ac4ae7c3"
     const val BASE_URL: String = "https://api.openweathermap.org/data/"
     const val METRIC_UNIT: String = "metric"
     const val LANG: String = "pt_br"
+    const val PREFERENCE_NAME = "WeatherAppPreference"
+    const val WEATHER_RESPONSE_DATA = "weather_response_data"
 
 
     @SuppressLint("ObsoleteSdkInt")
@@ -36,8 +38,6 @@ object Constants {
             val networkInfo = connectivityManager.activeNetworkInfo
             return networkInfo != null && networkInfo.isConnectedOrConnecting
         }
-
-
     }
 
 

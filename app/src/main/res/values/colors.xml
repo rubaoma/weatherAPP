@@ -6,5 +6,14 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="bar_background">#B091F3</color>
+        <color name="secondary_text_color">#D9C8F9</color>
+    <color name="primary_text_color">#F2EDFD</color>
+    <color name="divider_background">#e0e0e0</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="main_screen_content_background_color1">#EFEFEF</color>
+    <color name="main_screen_content_background_color">#B9BECB</color>
+    <color name="card_background_color">#7C42F0</color>
+
+
 </resources>

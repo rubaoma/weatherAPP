@@ -1,4 +1,19 @@
 <resources>
-    <string name="app_name">WeatherApp</string>
+    <string name="app_name">Weather App Demo</string>
     <string name="please_wait">Please Wait&#8230;</string>
+    <string name="image_contentDescription">image</string>
+    <string name="km_per_hour">km/h</string>
+    <string name="weater_label">Weather</string>
+    <string name="condition_label">condition</string>
+    <string name="degree_label">Degree</string>
+    <string name="per_cent_label">per cent</string>
+    <string name="minimum_label">Minimum</string>
+    <string name="maximum_label">Maximum</string>
+    <string name="wind_label">Wind</string>
+    <string name="city_label">City</string>
+    <string name="country_label">Country</string>
+    <string name="sunrise_label">Sunrise</string>
+    <string name="sunset_label">Sunset</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="update_label_button">Update</string>
 </resources>
